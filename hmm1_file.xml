@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<fdc_file xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\dianes_place\projects\MyEclipse8.6\CCMT.library\technicalSpecs\phase5A_FDC\fdc_file.xsd">
+  <header file_id="9641029">
+    <filename>FDC_201110042116.xml</filename>
+    <dateGenerated>2011-10-04</dateGenerated>
+    <recordCount>2</recordCount>
+  </header>
+  <fdc_list>
+    <fdc id="9640946">
+      <maat_id>fake111</maat_id>
+      <sentenceDate>2011-03-09</sentenceDate>
+      <calculationDate>2011-10-04</calculationDate>
+      <final_cost>200</final_cost>
+      <final_vat>0</final_vat>
+      <lgfs_total>100</lgfs_total>
+      <lgfs_vat>0</lgfs_vat>
+      <agfs_total>100</agfs_total>
+      <agfs_vat>0</agfs_vat>
+    </fdc>
+    <fdc id="9641019">
+      <maat_id>fake123</maat_id>
+      <sentenceDate>2011-03-09</sentenceDate>
+      <calculationDate>2011-10-04</calculationDate>
+      <final_cost>202</final_cost>
+      <final_vat>0</final_vat>
+      <lgfs_total>101</lgfs_total>
+      <lgfs_vat>0</lgfs_vat>
+      <agfs_total>101</agfs_total>
+      <agfs_vat>0</agfs_vat>
+    </fdc>
+  </fdc_list>
+</fdc_file>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<fdc_file>
+  <header file_id="9641421">
+    <filename>FDC_201110052116.xml</filename>
+    <dateGenerated>2011-10-05</dateGenerated>
+    <recordCount>4</recordCount>
+  </header>
+  <fdc_list>
+    <fdc id="9641183">
+      <maat_id>fake222</maat_id>
+      <sentenceDate>2011-03-23</sentenceDate>
+      <calculationDate>2011-10-05</calculationDate>
+      <final_cost>421</final_cost>
+      <final_vat>0</final_vat>
+      <lgfs_total>210</lgfs_total>
+      <lgfs_vat>0</lgfs_vat>
+      <agfs_total>211</agfs_total>
+      <agfs_vat>0</agfs_vat>
+    </fdc>
+    <fdc id="9641258">
+      <maat_id>fake333</maat_id>
+      <sentenceDate>2011-03-23</sentenceDate>
+      <calculationDate>2011-10-05</calculationDate>
+      <final_cost>441</final_cost>
+      <final_vat>0</final_vat>
+      <lgfs_total>220</lgfs_total>
+      <lgfs_vat>0</lgfs_vat>
+      <agfs_total>221</agfs_total>
+      <agfs_vat>0</agfs_vat>
+    </fdc>
+    <fdc id="9641326">
+      <maat_id>fake444</maat_id>
+      <sentenceDate>2011-01-21</sentenceDate>
+      <calculationDate>2011-10-05</calculationDate>
+      <final_cost>461</final_cost>
+      <final_vat>0</final_vat>
+      <lgfs_total>230</lgfs_total>
+      <lgfs_vat>0</lgfs_vat>
+      <agfs_total>231</agfs_total>
+      <agfs_vat>0</agfs_vat>
+    </fdc>
+    <fdc id="9641398">
+      <maat_id>fake555</maat_id>
+      <sentenceDate>2010-12-20</sentenceDate>
+      <calculationDate>2011-10-05</calculationDate>
+      <final_cost>481</final_cost>
+      <final_vat>0</final_vat>
+      <lgfs_total>240</lgfs_total>
+      <lgfs_vat>0</lgfs_vat>
+      <agfs_total>241</agfs_total>
+      <agfs_vat>0</agfs_vat>
+    </fdc>
+  </fdc_list>
+</fdc_file>
